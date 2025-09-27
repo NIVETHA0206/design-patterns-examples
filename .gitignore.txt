@@ -1,0 +1,20 @@
+# Java compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE files
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Build folders
+/out/
+bin/
+
+# Logs
+*.log
